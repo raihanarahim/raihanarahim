@@ -20,8 +20,9 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/amirah-raihanah-abdul-rahim-090530141/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-gmail-URL">
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[amirah.raihanah@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=raihanarahim&style=flat-square&color=blue" alt=""/>
 </div>
