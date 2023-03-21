@@ -1,19 +1,5 @@
 
 
-<!--
-**raihanarahim/raihanarahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
   <div id="badges">
@@ -38,10 +24,32 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 
 ### :woman_technologist: About Me :
 
-- :desktop_computer: Undergraduate student majoring in Computer Science (Data Engineering) from University Technology Malaysia (UTM) | actively participating in competitions and challenges related to my field of study.
-- :floppy_disk: Knowledge and experiences | network architecture, data science, big data, machine learning, artificial intelligence, business intelligence and system development.
-- :trophy: Certifications and Licenses | Alteryx Designer Core Certification, Alteryx Foundational Micro-Credential, Microsoft Certified: Azure AI Fundamentals, AWS Academy Machine Learning Foundations, AWS Academy Data Analytics and AWS Academy Cloud Foundations.
--  🌱 Currently learning | enterprise system development, software engineering and application development.
+
+<details>
+  <summary><b>  :desktop_computer: Background </b></summary>
+ Undergraduate student majoring in Computer Science (Data Engineering) from University Technology Malaysia (UTM) | actively participating in competitions and challenges related to my field of study.
+  - ExxonMobil DataWorks KickOff 2022
+  - UTM AI & Machine Learning Innovation Challenge 2022
+  - UTM - Alteryx Book Prize Award
+  - ATU-Net GLOBAL TECHNOVATION HACKATHON 2023
+  
+</details>
+
+<details>
+  <summary><b> :floppy_disk:Knowledge and Experience</b></summary>
+  Network architecture, Data Science, Big Data, Machine Learning, Artificial Intelligence, Business Intelligence and System Development.
+</details>
+
+<details>
+  <summary><b> :trophy: Certifications and Badges</b></summary>
+  Alteryx Designer Core Certification, Alteryx Foundational Micro-Credential, Microsoft Certified: Azure AI Fundamentals, AWS Academy Machine Learning Foundations, AWS Academy Data Analytics and AWS Academy Cloud Foundations.
+</details>
+
+<details>
+  <summary><b> 🌱 Currently Learning </b></summary>
+   Enterprise system development, Software engineering and Application development.
+</details>
+
 
 ---
 ### :bar_chart: Languages and Tools : 
