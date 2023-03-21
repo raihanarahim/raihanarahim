@@ -38,6 +38,27 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 
 ### :woman_technologist: About Me :
 
-- :desktop_computer:  I am an undergraduate student majoring in Computer Science (Data Engineering) from University Technology Malaysia (UTM) | actively participating in competitions and challenges related to my field of study.
-- :floppy_disk: My knowledge includes data science, big data, machine learning, artificial intelligence, business intelligence and system development.
+- :desktop_computer: Undergraduate student majoring in Computer Science (Data Engineering) from University Technology Malaysia (UTM) | actively participating in competitions and challenges related to my field of study.
+- :floppy_disk: Knowledge and experiences | network architecture, data science, big data, machine learning, artificial intelligence, business intelligence and system development.
 - :trophy: Certifications and Licenses | Alteryx Designer Core Certification, Alteryx Foundational Micro-Credential, Microsoft Certified: Azure AI Fundamentals, AWS Academy Machine Learning Foundations, AWS Academy Data Analytics and AWS Academy Cloud Foundations.
+-  🌱 Currently learning | enterprise system development, software engineering and application development.
+
+---
+### :bar_chart: Languages and Tools : 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>
+  <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="tableau" width="80" height="40"/>
+  <img src="https://deepinthecode.com/wp-content/uploads/2022/08/powerbi.jpg" alt="tableau" width="80" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" alt="alteryx" width="80" height="40"/>
+  
+</div>
