@@ -57,7 +57,7 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 
 
 ---
-### :bar_chart: Languages and Tools : 
+### :hammer_and_wrench: Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -75,3 +75,10 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Alteryx_logo.png" alt="alteryx" width="80" height="40"/>
   
 </div>
+
+---
+### :bar_chart:Github Stats : 
+
+<p align='center'><img align="right" src="https://github-readme-stats.vercel.app/api?username=raihanarahim&show_icons=true&locale=en" alt="raihanarahim" /></p>
+
+<p align='center'><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanarahim&" alt="raihanarahim" /></p>
