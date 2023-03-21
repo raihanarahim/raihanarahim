@@ -79,6 +79,6 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 ---
 ### :bar_chart:Github Stats : 
 
-<p align='center'><img align="right" src="https://github-readme-stats.vercel.app/api?username=raihanarahim&show_icons=true&locale=en" alt="raihanarahim" /></p>
+<p align='center'><img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanarahim&show_icons=true&locale=en" alt="raihanarahim" /></p>
 
-<p align='center'><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanarahim&" alt="raihanarahim" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raihanarahim&" alt="raihanarahim" /></p>
