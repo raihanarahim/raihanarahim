@@ -22,17 +22,19 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me 
 
 
 <details>
   <summary><b>  :desktop_computer: Background </b></summary>
  Undergraduate student majoring in Computer Science (Data Engineering) from University Technology Malaysia (UTM) | actively participating in competitions and challenges related to my field of study.
-  - ExxonMobil DataWorks KickOff 2022
-  - UTM AI & Machine Learning Innovation Challenge 2022
-  - UTM - Alteryx Book Prize Award
-  - ATU-Net GLOBAL TECHNOVATION HACKATHON 2023
-  
+   <ul>
+    <li> ExxonMobil DataWorks KickOff 2022 </li>
+    <li> UTM AI & Machine Learning Innovation Challenge 2022 </li>
+    <li> UTM - Alteryx Book Prize Award 2022 </li>
+    <li> ATU-Net GLOBAL TECHNOVATION HACKATHON 2023 </li>
+  </ul>
+
 </details>
 
 <details>
