@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h3>
   <h8>
-Greetings, I go by Amirah Raihanah, a full-time student who is passionate about coding, machine learning, AI, and business intelligence. I find the intersection of these fields to be incredibly fascinating and full of possibilities. I enjoy learning new technologies and techniques, and I am always curious to explore more about the latest advancements in these fields. My curiosity and eagerness to learn more are what drives me forward in my pursuit of knowledge in these fields. I am excited to continue my journey in this field and to share my knowledge with others who share my passion.
+I go by Amirah Raihanah, a full-time student who is passionate about coding, machine learning, AI, and business intelligence. I find the intersection of these fields to be incredibly fascinating and full of possibilities. I enjoy learning new technologies and techniques, and I am always curious to explore more about the latest advancements in these fields. My curiosity and eagerness to learn more are what drives me forward in my pursuit of knowledge in these fields. I am excited to continue my journey in this field and to share my knowledge with others who share my passion.
   </h8>
 </div>
 
@@ -38,4 +38,6 @@ Greetings, I go by Amirah Raihanah, a full-time student who is passionate about 
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :desktop_computer:  I am an undergraduate student majoring in Computer Science (Data Engineering) from University Technology Malaysia (UTM) | actively participating in competitions and challenges related to my field of study.
+- :floppy_disk: My knowledge includes data science, big data, machine learning, artificial intelligence, business intelligence and system development.
+- :trophy: Certifications and Licenses | Alteryx Designer Core Certification, Alteryx Foundational Micro-Credential, Microsoft Certified: Azure AI Fundamentals, AWS Academy Machine Learning Foundations, AWS Academy Data Analytics and AWS Academy Cloud Foundations.
