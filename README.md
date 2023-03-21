@@ -9,6 +9,9 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[amirah.raihanah@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+    <a href="(https://www.credly.com/users/amirah-raihanah-abdul-rahim/badges)">
+    <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly Badge"/>
+  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=raihanarahim&style=flat-square&color=blue" alt=""/>
  <h3>
