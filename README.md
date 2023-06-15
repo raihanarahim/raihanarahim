@@ -47,7 +47,7 @@ I go by Amirah Raihanah, a full-time student who is passionate about coding, mac
 
 <details>
   <summary><b> :trophy: Certifications and Badges</b></summary>
-  Alteryx Designer Core Certification, Alteryx Foundational Micro-Credential, Microsoft Certified: Azure AI Fundamentals, AWS Academy Machine Learning Foundations, AWS Academy Data Analytics and AWS Academy Cloud Foundations.
+  Alteryx Designer Core Certification, Alteryx Foundational Micro-Credential, Microsoft Certified: Azure AI Fundamentals, AWS Academy Machine Learning Foundations, AWS Academy Data Analytics, AWS Academy Cloud Foundations,  AWS Academy Machine Learning for Natural Language Processing, AWS Academy Cloud Data Pipeline Builder, AWS Academy Cloud Web Application Builder and AWS Academy Data Engineering.
 </details>
 
 <details>
